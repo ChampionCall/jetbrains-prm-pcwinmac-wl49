@@ -1,4 +1,4 @@
-# 
+# Turbo JetBrains PyCharm plugins for Mac OS | Premium JetBrains PyCharm plugins for PC Windows. Featuring code-review and auto-formatting — optimized for maximum performance on every platform.
 
 
 
